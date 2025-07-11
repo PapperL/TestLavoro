@@ -1,14 +1,4 @@
 body{background-color:white;}
-h1{
-  color:red;
-  font-family: arial black;
-  font-size:200%;
-}
-p{
-  color:violet;
-  font-family: arial;
-  font-size:150%;
-}
 table, th, td{
   border: 1px solid black;
   border-collapse: collapse;
